@@ -91,7 +91,7 @@ ellas y el equipo de Laboratoria.
  manifiesta su interés por aplicar a la vacante, como sucede en algunos
  procesos de reclutamiento abiertos.
 
-Pronto en este [apartado]()
+Pronto en este [apartado](https://github.com/Laboratoria/BOG004JobApplicationMentorias/blob/main/01-hr-mentoring/interviewer-guide/README.md)
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.
 ## Mentorías Técnicas 
