@@ -109,7 +109,7 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto en este [apartado]()
+Pronto en este [apartado](./02-tech-mentoring/README.md)
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
